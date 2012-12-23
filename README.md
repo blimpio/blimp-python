@@ -12,6 +12,18 @@ Using Github:
 git clone git@github.com:getblimp/blimp-python.git
 ```
 
+Using pip:
+
+```
+pip install blimp
+```
+
+Using easy_install:
+
+```
+easy_install blimp
+````
+
 ## Pre-Usage ##
 
 Before we begin using the library you need to signup to [Blimp](http://app.getblimp.com/) and generate a new API Key if you don't have one in your [settings](https://app.getblimp.com/user/settings/api/) as well as an Application ID and Secret in your [applications](https://app.getblimp.com/user/settings/api/developers/).
