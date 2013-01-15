@@ -1,5 +1,9 @@
 # blimp-python #
-This library allows you to interact with the Blimp API using Python. Inspired by Mike Lewis' [Python Foursquare v2 library](https://github.com/mLewisLogic/foursquare).
+This library allows you to interact with the Blimp API using Python. You can find more information 
+about Blimp's Public API documentation at [http://dev.getblimp.com/](http://dev.getblimp.com/).
+If you have any problems or requests please contact [support](mailto:support@getblimp.com?subject=Blimp API Python library).
+
+Inspired by Mike Lewis' [Python Foursquare v2 library](https://github.com/mLewisLogic/foursquare).
 
 ## License ##
 Licensed under the MIT License.
