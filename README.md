@@ -75,8 +75,8 @@ print api.file.schema()
 # All available methods per endpoint
 # api.task.get()
 # api.task.get(task_id)
-# api.task.post(data)
-# api.task.put(task_id, data)
+# api.task.create(data)
+# api.task.update(task_id, data)
 # api.task.delete(task_id)
 # api.task.schema()
 ```
