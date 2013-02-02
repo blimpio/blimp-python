@@ -11,6 +11,7 @@ setup(
     license='MIT License',
     description='Blimp library for Python',
     long_description='Blimp library for Python',
+    test_suite="tests.get_tests",
     install_requires=[
         'requests'
     ],
