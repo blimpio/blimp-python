@@ -1,4 +1,7 @@
 # blimp-python #
+
+[![Build Status](https://travis-ci.org/GetBlimp/blimp-python.png?branch=master)](https://travis-ci.org/GetBlimp/blimp-python)
+
 This library allows you to interact with the Blimp API using Python. You can find more information 
 about Blimp's Public API documentation at [http://dev.getblimp.com/](http://dev.getblimp.com/).
 If you have any problems or requests please contact [support](mailto:support@getblimp.com?subject=Blimp API Python library).
