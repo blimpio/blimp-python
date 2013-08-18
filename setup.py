@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='blimp',
-    version='0.0.1',
+    version='0.0.2',
     author='Jose Padilla',
     author_email='jpadilla@getblimp.com',
     packages=find_packages(),
