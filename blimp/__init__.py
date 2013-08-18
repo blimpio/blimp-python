@@ -124,3 +124,6 @@ class Client(object):
 
     class File(ApiResource):
         pass
+
+    class User(ApiResource):
+        pass
