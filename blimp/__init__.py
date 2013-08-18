@@ -19,8 +19,8 @@ class Client(object):
         }
 
         self.session = requests.session()
-        default_headers = self.session.headers
-        self.session.headers = dict(default_headers.items() + headers.items())
+        self.session.headers = dict(self.session.headers.items())
+        self.session.headers.update(dict(headers.items()))
 
         # Dynamically enable endpoints
         self._attach_endpoints()
